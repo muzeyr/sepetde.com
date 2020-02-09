@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b367eb0c20474770aa8c97119fdb398",
+    "revision": "d6d365c801ca3cf5899f35d428634258",
     "url": "/sepetde.com/index.html"
   },
   {
-    "revision": "2cb986416d0314988eee",
-    "url": "/sepetde.com/static/css/main.04fd67cb.chunk.css"
+    "revision": "04c624ace12f57a587ce",
+    "url": "/sepetde.com/static/css/main.b7497568.chunk.css"
   },
   {
     "revision": "1aa2d8d6adec7d056348",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sepetde.com/static/js/2.9f477082.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cb986416d0314988eee",
+    "revision": "04c624ace12f57a587ce",
     "url": "/sepetde.com/static/js/main.0370a69a.chunk.js"
   },
   {
