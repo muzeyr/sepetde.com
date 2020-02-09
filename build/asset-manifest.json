@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sepetde.com/static/css/main.04fd67cb.chunk.css",
+    "main.js": "/sepetde.com/static/js/main.0370a69a.chunk.js",
+    "main.js.map": "/sepetde.com/static/js/main.0370a69a.chunk.js.map",
+    "runtime-main.js": "/sepetde.com/static/js/runtime-main.edca54de.js",
+    "runtime-main.js.map": "/sepetde.com/static/js/runtime-main.edca54de.js.map",
+    "static/js/2.9f477082.chunk.js": "/sepetde.com/static/js/2.9f477082.chunk.js",
+    "static/js/2.9f477082.chunk.js.map": "/sepetde.com/static/js/2.9f477082.chunk.js.map",
+    "index.html": "/sepetde.com/index.html",
+    "precache-manifest.106c25eb106eef37381b741c8c27ab53.js": "/sepetde.com/precache-manifest.106c25eb106eef37381b741c8c27ab53.js",
+    "service-worker.js": "/sepetde.com/service-worker.js",
+    "static/css/main.04fd67cb.chunk.css.map": "/sepetde.com/static/css/main.04fd67cb.chunk.css.map",
+    "static/js/2.9f477082.chunk.js.LICENSE.txt": "/sepetde.com/static/js/2.9f477082.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edca54de.js",
+    "static/js/2.9f477082.chunk.js",
+    "static/css/main.04fd67cb.chunk.css",
+    "static/js/main.0370a69a.chunk.js"
+  ]
+}
