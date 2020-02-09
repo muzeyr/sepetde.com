@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sepetde.com/static/css/main.b7497568.chunk.css",
-    "main.js": "/sepetde.com/static/js/main.0370a69a.chunk.js",
-    "main.js.map": "/sepetde.com/static/js/main.0370a69a.chunk.js.map",
+    "main.js": "/sepetde.com/static/js/main.c6f9dc78.chunk.js",
+    "main.js.map": "/sepetde.com/static/js/main.c6f9dc78.chunk.js.map",
     "runtime-main.js": "/sepetde.com/static/js/runtime-main.edca54de.js",
     "runtime-main.js.map": "/sepetde.com/static/js/runtime-main.edca54de.js.map",
-    "static/js/2.9f477082.chunk.js": "/sepetde.com/static/js/2.9f477082.chunk.js",
-    "static/js/2.9f477082.chunk.js.map": "/sepetde.com/static/js/2.9f477082.chunk.js.map",
+    "static/js/2.02dca0ae.chunk.js": "/sepetde.com/static/js/2.02dca0ae.chunk.js",
+    "static/js/2.02dca0ae.chunk.js.map": "/sepetde.com/static/js/2.02dca0ae.chunk.js.map",
     "index.html": "/sepetde.com/index.html",
-    "precache-manifest.813b076669795248eff08b67b06c3eef.js": "/sepetde.com/precache-manifest.813b076669795248eff08b67b06c3eef.js",
+    "precache-manifest.78749780868e393f029ed8fd690d23f2.js": "/sepetde.com/precache-manifest.78749780868e393f029ed8fd690d23f2.js",
     "service-worker.js": "/sepetde.com/service-worker.js",
     "static/css/main.b7497568.chunk.css.map": "/sepetde.com/static/css/main.b7497568.chunk.css.map",
-    "static/js/2.9f477082.chunk.js.LICENSE.txt": "/sepetde.com/static/js/2.9f477082.chunk.js.LICENSE.txt"
+    "static/js/2.02dca0ae.chunk.js.LICENSE.txt": "/sepetde.com/static/js/2.02dca0ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.edca54de.js",
-    "static/js/2.9f477082.chunk.js",
+    "static/js/2.02dca0ae.chunk.js",
     "static/css/main.b7497568.chunk.css",
-    "static/js/main.0370a69a.chunk.js"
+    "static/js/main.c6f9dc78.chunk.js"
   ]
 }
